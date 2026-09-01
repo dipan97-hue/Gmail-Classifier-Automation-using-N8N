@@ -19,7 +19,7 @@ The classified emails can then be assigned Gmail labels automatically.
 
 ## Workflow
 
-![n8n Gmail Classifier Workflow](workflow.png)
+![n8n Gmail Classifier Workflow](Images/Workflow.png)
 
 ## Technologies
 
